@@ -1,5 +1,4 @@
-# ignite-template-trabalhando-com-middlewares
-Desafio 02 - Trabalhando com Middlewares
+#Desafio 02 - Trabalhando com Middlewares
 
 esse desafio você irá trabalhar mais a fundo com middlewares no Express. Dessa forma você será capaz de fixar mais ainda os conhecimentos obtidos até agora. 
 
